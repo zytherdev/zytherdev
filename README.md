@@ -40,17 +40,6 @@ We combine **deep technical expertise** with a **product-first mindset** to crea
 
 ---
 
-## 🌟 Selected Projects
-
-| Project | Description |
-|---|---|
-| **tzrender** | Real-time 3D rendering engine built with Rust & WebGPU. |
-| **tzmail** | Modern email client designed for developers. |
-| **devtools-hub** | Marketplace and ecosystem for developer tools. |
-| **ggl-translate** | Google Translate React UI Component |
-
----
-
 ## 📦 Open Source
 
 We believe great software should be shared.
